@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
 # (C) Copyright 2000 - 2013
-# WD
+ WD
 
 # License Agreement/Contract(s):
 **Severability/salvatorius: If any word, part, portion, provision , of this is or should become illegal, invalid, null or void, rendering this unenforceable in any jurisdiction, that then shall not affect:** 
